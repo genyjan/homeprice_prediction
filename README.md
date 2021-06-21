@@ -1,8 +1,3 @@
-# homeprice_prediction
-#created project to predict Home price 
-#used basic data science and machine learning techniques
-#data cleaning
-#feature engineering
-#outlier removal
-#build machine learning model
-#choose best model
+1)I create basic machine learning model that to find prices of Bangaloure Home prices depend on sqft and other factors.
+2)Used data cleaning, feature engineering, ml model.
+3)saved data 2 type of files in pickle,json.
